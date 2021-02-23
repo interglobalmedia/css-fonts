@@ -4,7 +4,8 @@
   "description": "CSS Fonts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "slides": "npx reveal-md css-fonts.md",
+	"customcss": "npx reveal-md css-fonts.md -w --css custom.css"
   },
   "repository": {
     "type": "git",
