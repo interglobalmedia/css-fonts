@@ -12,7 +12,7 @@ The `font property` is `shorthand` for:
 
 + `font-style`: ***specifies*** the `font style` for a `text`.
 
-+ `font-variant`: ***specifies*** whether or not a `text` should be ***displayed*** in a `small-caps font`.
++ `font-variant`: ***specifies*** whether or not a `text` ***should*** be ***displayed*** in a `small-caps font`.
 
 + `font-weight`: ***sets*** how ***thick*** or ***thin*** `characters` in `text` ***should*** be ***displayed***.
 
@@ -20,7 +20,7 @@ The `font property` is `shorthand` for:
 
 + `font-family`: ***specifies*** the `font` for an `element`.
 
-The `font-size` and `font-family` ***values*** are `required`. If ***one*** of the ***other*** `values` is ***missing***, their ***default value*** are `used`.
+The `font-size` and `font-family` ***values*** are `required`. If ***one*** of the ***other*** `values` is ***missing***, their ***default value*** is `used`.
 
 </section>
 
@@ -33,7 +33,7 @@ The `font-style property` ***specifies*** the `font style` for a `text`.
 
 The `font-style` ***accepts*** the ***following*** `values`:
 
-+ `normal`: The `browser` ***displays*** a ***normal*** `font style`. This is ***default*** `value`.
++ `normal`: The `browser` ***displays*** a ***normal*** `font style`. This is the ***default*** `value`.
 
 + `italic`: The `browser` ***displays*** an `italic font style`.
 
@@ -60,7 +60,7 @@ In a `small-caps font`, ***all*** `lowercase letters` are ***converted*** to `up
 
 The `font-variant property` ***accepts*** the ***following*** `values`:
 
-+ `normal`: The `browser` ***displays*** a `normal font`. This is ***default*** `value`.
++ `normal`: The `browser` ***displays*** a `normal font`. This is the ***default*** `value`.
 
 + `small-caps`: The `browser` ***displays*** a `small-caps font`.
 
@@ -165,7 +165,7 @@ The `font-family property` ***accepts*** the ***following*** `values`:
 
 + `initial`: ***Sets*** the `font-family property` to its ***default*** `value`.
 
-+ `inherit`: ***Sets*** the `font-family property` to its ***default*** `value`.
++ `inherit`: ***Inherits*** the `font-family property` ***from*** its `parent element`.
 
 <aside class="notes">
 	Note: visit the [CSS font-family Property](https://www.w3schools.com/cssref/pr_font_font-family.asp) page on w3schools to show the students live examples.
