@@ -1,0 +1,22 @@
+{
+  "name": "css-fonts",
+  "version": "1.0.0",
+  "description": "CSS Fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/css-fonts.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/css-fonts/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/css-fonts#readme",
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
